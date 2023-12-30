@@ -1,0 +1,1 @@
+Uses the NASA API to get a picture taken of space and displays it to the webpage with the title of the image, explanation of the image, and the date taken (current date of viewing webpage). This helped me learn a lot about APIs.
